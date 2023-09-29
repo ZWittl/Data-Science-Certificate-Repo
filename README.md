@@ -1,6 +1,8 @@
 # Data-Science-Certificate-Repo
 This repository will be used to capture files created while obtaining my Data Science Professional Certificate from Coursera.
 
+I worked towards to obtaining this certificate so I could enhance my skills in SQL and get a better understanding of Python and Machine Learning.
+
 The certificate covers 10 courses in the following areas:
   1.  What is Data Science
   2.  Tools for Data Science
